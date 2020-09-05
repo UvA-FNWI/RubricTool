@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "outDir": "./dist/",
+      "sourceMap": true,
+      "noImplicitAny": false,
+      "allowJs": true,
+    },
+    "include": [
+        "src/**/*"
+    ]
+  }
